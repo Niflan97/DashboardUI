@@ -1,0 +1,23 @@
+Admin Dashboard – Responsive Web Application
+This project is a modern, responsive admin dashboard built using React and Chakra UI v3.8.1. It provides a clean and user-friendly interface for monitoring user activity, authentication methods, and key metrics. The design was inspired by a Figma prototype and focuses on usability, data visualization, and performance.
+
+Key Features
+Reusable Components – The dashboard is structured with modular, reusable UI components:
+
+Sidebar – A collapsible navigation menu with icons and labels.
+DashboardStats – Displays daily/monthly active user statistics.
+PieChart – Visualizes user distribution by role.
+LineChart – Represents user activity trends over time.
+ActivityLog – Tracks user actions with timestamps.
+ Fully Responsive – Optimized for various screen sizes to ensure a seamless user experience.
+ Interactive Charts – Displays real-time analytics using Chakra UI’s charting capabilities.
+ Theming & Accessibility – Uses Chakra UI’s custom themes for a clean, modern look.
+ Efficient State Management – Ensures smooth UI updates with React's best practices.
+
+Tech Stack
+React – Component-based UI development.
+Chakra UI v3.8.1 – Styling and layout management.
+Recharts  – Data visualization for pie and line charts.
+Figma (Design Reference) – Used for UI wireframing and prototyping.
+Project Overview
+This dashboard is designed to be scalable and customizable, making it ideal for admin panels, analytics dashboards, and data-driven applications.
